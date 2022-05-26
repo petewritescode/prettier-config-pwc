@@ -1,0 +1,24 @@
+{
+  "name": "prettier-config-pwc",
+  "version": "0.0.1",
+  "description": "My personal Prettier config",
+  "main": ".prettierrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://petewritescode@github.com/petewritescode/prettier-config-pwc.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "prettierconfig"
+  ],
+  "author": "Pete Williams <hello@petewritescode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petewritescode/prettier-config-pwc/issues"
+  },
+  "homepage": "https://github.com/petewritescode/prettier-config-pwc#readme",
+  "peerDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
