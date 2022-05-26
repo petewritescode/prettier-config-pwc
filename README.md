@@ -12,7 +12,7 @@ This module should be installed as one of your project's `devDependencies`:
 npm install --save-dev prettier-config-pwc
 ```
 
-It has a `peerDependencies` entry for Prettier.
+It has a `peerDependencies` requirement for Prettier version 2.
 
 ## Usage
 
