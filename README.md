@@ -1,6 +1,6 @@
 # prettier-config-pwc
 
-My personal Prettier config.
+My personal [Prettier](https://prettier.io/) config.
 
 ---
 
@@ -12,7 +12,7 @@ This module should be installed as one of your project's `devDependencies`:
 npm install --save-dev prettier-config-pwc
 ```
 
-It has a `peerDependencies` entry for [Prettier](https://prettier.io/).
+It has a `peerDependencies` entry for Prettier.
 
 ## Usage
 

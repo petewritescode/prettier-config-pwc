@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-pwc",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "My personal Prettier config",
   "main": ".prettierrc.js",
   "repository": {
@@ -9,8 +9,7 @@
   },
   "keywords": [
     "prettier",
-    "config",
-    "prettierconfig"
+    "config"
   ],
   "author": "Pete Williams <hello@petewritescode.com>",
   "license": "MIT",
